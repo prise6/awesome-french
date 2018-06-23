@@ -4,6 +4,8 @@
 
 This is based on [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+---
+
 ## You own/know something that could be added ?
 ### PR!
 
@@ -98,3 +100,5 @@ This is based on [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome
 ## Miscellaneous
 
 - [The I don't care License](https://github.com/jusdepatate/i-dont-care_license) - A license that say "I dont care about my code"
+- [Marcel](https://github.com/brouberol/marcel) - French Docker
+- [BonPatron](https://bonpatron.com/) - Online spelling and Grammar checker for french
