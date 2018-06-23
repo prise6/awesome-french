@@ -16,6 +16,8 @@ This is based on [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome
 - [Series](#series)
 - [Real Organization](#real-organization)
 - [GitHub Organization](#github-organization)
+- [ISP](#isp)
+- [OS](#os)
 - [Miscellaneous](#miscellaneous)
 
 ---
@@ -63,13 +65,36 @@ This is based on [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome
 - [30 millions d'amis](http://30millionsdamis.fr) - A french organization for animals in France
 - [L214](https://www.l214.com/) - A french organization for animals in France
 - [PETA France](http://petafrance.com) - A french organization for animals in France
+- [Emmaus](http://emmaus-france.org) - A french organization that help poor people
 
 ## GitHub Organization
 
 ## Web
 
 - [OVH.com](https://ovh.com) - French hosting
+- [Online](https://online.net) - French hosting
 - [OVH.net](https://ovh.net) - Speedtest powered by OVH
 - [Sielo](https://sielo.app) - Web Browser made with Qt and by a French
 - [Lilo](https://search.lilo.org) - Search engine that collect water (like [Ecosia](https://ecosia.org) but with water)
+
+## ISP
+
+- [Free](https://free.fr) - French ISP
+- [Orange](https://orange.fr) - Historical French ISP
+- [OVH](https://ovh.com) - French ISP
+- [Altice / SFR](https://sfr.fr) - French ISP (no one like this one)
+- [Bouygues Telecom](https://bouyguestelecom.fr) - French ISP (no one like this one too)
+
+## OS
+
+- [Manjaro Linux](https://manjaro.org) - OS made by a (group of) French
+- [Lubuntu](http://www.lubuntu.fr/) - OS made by a (group of) French
+- [Mageia](https://www.mageia.org/) - OS made by a (group of) French
+- [Emmabuntus](http://emmabuntus.sourceforge.net/) - OS made by a French organization (Emmaüs
+- [Lakka](http://www.lakka.tv/) - OS made by a (group of) French
+- [PureOS](https://pureos.net) - OS made by a (group of) French
+- [Toutou Linux](http://toutoulinux.free.fr/) - OS made by a (group of) French
+
 ## Miscellaneous
+
+- [The I don't care License](https://github.com/jusdepatate/i-dont-care_license) - A license that say "I dont care about my code"
