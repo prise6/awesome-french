@@ -1,5 +1,5 @@
 <div align="right">
-<a href="https://counter.danwin1210.me/visits.php?id=93950971d6d12f4c5349cecfc60a9b60"><img style="height:24px;width:auto;" src="https://counter.danwin1210.me/counter.gif?id=93950971d6d12f4c5349cecfc60a9b60&bg=FFFFFF&fg=000000&tr=0&unique=0&mode=0"></a>
+<a href="https://counter.danwin1210.me/visits.php?id=93950971d6d12f4c5349cecfc60a9b60"><img style="height:24px;width:auto;" src="https://counter.danwin1210.me/counter.gif?id=93950971d6d12f4c5349cecfc60a9b60&bg=FFFFFF&fg=000000&tr=0&unique=0&mode=0"></a> views
 </div>
 <div align="center">
 	<img width="500" src="https://rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
@@ -66,6 +66,7 @@
 - [Awesome French](https://github.com/GloverDonovan/awesome-french) - Tools to study French :fr::free:
 - [Awesome French](https://github.com/alexislefebvre/awesome-french) - Tools translated in French :fr::free:
 - [Awesome Lyon](https://github.com/ubermuda/awesome-lyon) - List of things to eat/drink in [Lyon](https://www.lyon.fr) :fr::free:
+- [Awesome Montréal](https://github.com/ubermuda/awesome-montreal) - List of things to eat/drink in [Montreal](http://ville.montreal.qc.ca/) :lollipop::free:
 
 ## Music
 
