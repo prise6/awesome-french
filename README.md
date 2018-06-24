@@ -23,11 +23,12 @@
 - [Music](#music)
 - [Programming Languages](#programming-languages)
 - [Books](#books)
-- [Gaming](#gaming)
+- [Video Game Studio](#video-game-studio)
 - [Series](#series)
 - [Real Organization](#real-organization)
 - [Web Organization](#web-organization)
 - [Web](#web)
+- [Bot](#bot)
 - [CMS](#cms)
 - [ISP](#isp)
 - [OS](#os)
@@ -39,10 +40,16 @@
 
 ## School
 
+### Physic school
+
 - [Le Wagon](https://www.lewagon.com) - Coding Bootcamp :fr::euro: (5k5€)
 - [L'École LDLC](https://www.lecole-ldlc.com) - Code training :fr::euro: (50€)
 - [42](http://www.42.fr) - Code training :fr::free:
 - [Gaming Campus](https://gamingcampus.fr) - First school of management dedicated to the professions of gaming :fr:
+
+### Online school
+
+- [OpenClassrooms](https://openclassrooms.com/) - Free course on everything that touch code :fr: :euro:/:free:
 
 ## Music
 
@@ -60,6 +67,11 @@
 
 - [Linotte](http://langagelinotte.free.fr/) - « codez dans un langage simple et en français » (from official website) :fr::free:
 - [WinDev](https://www.pcsoft.fr/windev/index.html) - « Développez 10 fois plus vite » (from official website) :fr: :euro:/:free:
+- [Translation of NodeJS Docs](https://github.com/nodejs/nodejs-fr) - Translation in french of the NodeJS Docs :free::fr:[:octocat:](https://github.com/nodejs/nodejs-fr)
+- [MicroAlg](http://microalg.info/) - Pseudocode in french :free::fr:[:octocat:](https://github.com/Microalg/microalg)
+- [JavaScripte](https://github.com/Parth-Agarwal/Javascripte) - JS in french :free::fr:[:octocat:](https://github.com/Parth-Agarwal/Javascripte)
+- [HTMLFR](https://htmlfr.org/) - HTML in french :free::fr:[:octocat:](https://github.com/DavidLibeau/htmlfr)
+- [Orvet](https://github.com/renaud1239/Orvet) - code in french :free::fr:[:octocat:](https://github.com/renaud1239/Orvet)
 
 ## Books
 
@@ -68,7 +80,7 @@
 - [Donjon de Naheulbeuk](https://www.amazon.fr/Donjon-Naheulbeuk-Première-saison-partie/dp/2913714676/) - Humor book about tabletop RPG :fr::euro: (15€)
 - [Astérix](https://www.asterix.com/) - French comic book :fr::euro: (10€)
 
-## Gaming 
+## Video Game Studio 
 
 - [Ankama Games](https://www.ankama.com/fr/games) - French company that made "Wakfu" and "Dofus" :fr:
 - [Ubisoft](https://www.ubisoft.com/) - Well knows French company :fr:
@@ -80,6 +92,11 @@
 - [LOL Engine](http://lolengine.net/) - Minimalist game engine :fr::free:
 - [Nazara Engine](https://github.com/DigitalPulseSoftware/NazaraEngine) - Complete and cross-platform engine :fr::free:[:octocat:](https://github.com/DigitalPulseSoftware/NazaraEngine)
 
+### Games
+
+- Games by studio listed above
+- [Once Upon A War](https://github.com/Meuleuh-Corp/Once-Upon-A-War) - Unity game about war :free::fr:[:octocat:](https://github.com/Meuleuh-Corp/Once-Upon-A-War)
+
 ## Series
 
 - [Donjon de Naheulbeuk](https://www.penofchaos.com/warham/donjon.htm) - Humor serie about tabletop RPG :fr::free:
@@ -87,7 +104,7 @@
 - [Dofus](https://www.dofus.com) - French animation serie :fr:
 
 ## Real Organization
-> Legal organization ("Association loi 1901" or "Société", gaming company goes [here](#gaming))
+> Legal organization ("Association loi 1901" or "Société", gaming company goes [here](#video-game-studio))
 
 - [La Quadrature du Net](https://ldqn.fr) - A french organization for net neutrality in France :fr:
 - [Framasoft](https://framasoft.org) - A french organization for open source software in France :fr:
@@ -132,7 +149,7 @@
 - [.ovh](http://nic.ovh) - TLD for OVH :fr::euro:
 - [.sncf](https://www.sncf.com/sncv1/fr/nic) - TLD for SNCF :fr::euro:
 
-#### TLD for francophone country/region
+#### TLDs for francophone country/region
 
 - [.ml](https://nic.ml) - TLD for Mali (free with [Freenom](http://www.freenom.com/)) :lollipop::free:
 - [.ga](http://www.my.ga/) - TLD for Gabon (free with [Freenom](http://www.freenom.com/)) :lollipop::free:
@@ -147,6 +164,24 @@
 - [.cd](http://www.nic.cd/) - TLD for Republique Democratique du Congo :lollipop::euro:
 - [.sn](https://www.nic.sn) - TLD for Sénégal :lollipop::euro:
 - [.tg](https://nic.tg) - TLD for Togo :lollipop::euro:
+
+## Bot
+
+### Discord bot
+
+- [Asimov](https://github.com/GitAcrown/Asimov) - Bot based on RED :free::fr:[:octocat:](https://github.com/GitAcrown/Asimov)
+- [Fortnite stats](https://fortnite.y3n.co/) - Bot that give stats from fortnite :fr::free:
+- [l4p1n-bot](https://bot.l4p1n.ch/) - Multifunctionnality bot made by a cool guy (l4p1n) :lollipop::free:
+- [EnderBot](https://audran.xyz/enderbot/) - cool RPG bot :fr::free:
+- [EmoteBot](https://discordbots.org/bot/397007011549675521) - Bot based on RED :free::fr:[:octocat:](https://github.com/EmoteBot/EmoteBot)
+
+### Telegram bot
+
+- [Potato Juice](https://t.me/Potato_JuiceBot) - Tiny Telegram bot :free::fr:[:octocat:](https://github.com/EmoteBot/Potato-JuiceBot)
+
+### Twitter bot
+
+- [Français mofo](https://twitter.com/francais_mofo) - Suggest appropriate translations to English words used in French :free::fr:[:octocat:](https://github.com/maeligg/francais-mofo)
 
 ## CMS
 
@@ -178,7 +213,11 @@
 - [Genethumb.sh](http://sam.zoy.org/projects/genethumb/) - « Genethumb is a quick and dirty shell script aimed at generating HTML indexes with thumbnails from a directory full of images. » (from official website) :fr::free:[:octocat:](http://sam.zoy.org/projects/genethumb/genethumb-0.0.8.sh)
 - [PWNtcha](http://caca.zoy.org/wiki/PWNtcha) - « This project’s goal is to demonstrate the inefficiency of many captcha implementations. » (from official website) :fr::free:[:octocat:](http://caca.zoy.org/browser/pwntcha/trunk)
 - [Marcel](https://github.com/brouberol/marcel) - French Docker :fr::free:[:octocat:](https://github.com/brouberol/marcel)
+- [Guitte](https://github.com/w3st3ry/guitte) - French Git :fr::free:[:octocat:](https://github.com/w3st3ry/guitte)
 - [BonPatron](https://bonpatron.com/) - Online spelling and Grammar checker for french :fr::free:
+- [Dawn Of Light](http://www.dolserver.net/) - Server emulator for Dark Age Of Camelot (not completly french but have a lot of french in staff) :fr::free:[:octocat:](https://github.com/Dawn-of-Light/DOLSharp)
+- [OpenFisca France](https://github.com/openfisca/openfisca-france) - French tax and benefit system :fr::free:[:octocat:](https://github.com/openfisca/openfisca-france)
+
 
 ## License
 
@@ -187,3 +226,6 @@
 
 ## Miscellaneous
 
+- [Le Code Civil Français, sous Git](https://github.com/steeve/france.code-civil) - Everything is in the name :fr::free:[:octocat:](https://github.com/Dawn-of-Light/DOLSharp)
+- [Incubateur de Services Numériques de la Direction Interministérielle du Numérique et du Système d'Information et de Communication de l'État](http://beta.gouv.fr) - Everything is in the name :fr::free:[:octocat:](https://github.com/betagouv)
+- [Parcoursup](http://www.parcoursup.fr/) - Code source de Parcoursup disponible sur Framagit :fr::free:[:octocat:](https://framagit.org/parcoursup)
