@@ -96,6 +96,7 @@
 - [Putain de chat](https://www.amazon.fr/Putain-chat-Lapuss/dp/B01E9TG4RA/) - Humor book about a cat :fr::euro: (10€)
 - [Donjon de Naheulbeuk](https://www.amazon.fr/Donjon-Naheulbeuk-Première-saison-partie/dp/2913714676/) - Humor book about tabletop RPG :fr::euro: (15€)
 - [Astérix](https://www.asterix.com/) - French comic book :fr::euro: (10€)
+- [Kaamelott](https://www.amazon.fr/Kaamelott-1-LArmée-Du-Nécromant/dp/2203370157) - French comic book :fr::euro: (15€)
 
 ## Video Game Studio 
 
@@ -119,6 +120,7 @@
 - [Donjon de Naheulbeuk](https://www.penofchaos.com/warham/donjon.htm) - Humor serie about tabletop RPG :fr::free:
 - [Wakfu](https://www.wakfu.com/) - French animation serie :fr:
 - [Dofus](https://www.dofus.com) - French animation serie :fr:
+- [Kaamelott](https://www.kaamelott.com) - French serie based on arthurian legend :fr: 
 
 ## Real Organization
 > Legal organization ("Association loi 1901" or "Société", gaming company goes [here](#video-game-studio))
@@ -161,10 +163,10 @@
 - [.pm](http://nic.pm) - TLD for Saint-Pierre and Miquelon :lollipop::euro:
 - [.alsace](http://nic.alsace) - TLD for Région Alsace :fr::euro:
 - [.paris](http://nic.paris) - TLD for Paris :fr::euro:
-- [.aquarelle](http://nic.aquarelle) - TLD for Société Aquarelle :fr::euro:
-- [.frogans](http://nic.frogans) - TLD for Project Frogans :fr::euro:
+- [.aquarelle](http://nic.aquarelle) - TLD for Société Aquarelle :fr:
+- [.frogans](http://nic.frogans) - TLD for Project Frogans :fr:
 - [.ovh](http://nic.ovh) - TLD for OVH :fr::euro:
-- [.sncf](https://www.sncf.com/sncv1/fr/nic) - TLD for SNCF :fr::euro:
+- [.sncf](https://www.sncf.com/sncv1/fr/nic) - TLD for SNCF :fr:
 
 #### TLDs for francophone country/region
 
@@ -173,6 +175,7 @@
 - [.cf](http://nic.cf) - TLD for Centrafique (free with [Freenom](http://www.freenom.com/)) :lollipop::free:
 - [.gq](http://nic.gq) - TLD for Guinée Équatoriale (free with [Freenom](http://www.freenom.com/)) :lollipop::free:
 - [.quebec](http://registre.quebec/) - TLD for Quebec :lollipop::euro:
+- [.qc.ca](https://www.weblegal.ca/fr/guides/comment-acheter-un-nom-de-domaine-qc-ca/) - Old TLD for Quebec :lollipop::euro:
 - [.cg](http://nic.cg) - TLD for Congo :lollipop::euro:
 - [.bj](http://nic.bj) - TLD for Bénin :lollipop::euro:
 - [.bf](http://www.arcep.bf/noms-de-domaine/) - TLD for Burkina Faso :lollipop::euro:
