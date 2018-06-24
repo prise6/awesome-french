@@ -106,13 +106,13 @@
 
 - [.fr](http://nic.fr) - TLD for France
 - [.re](http://nic.re) - TLD for l'île de la Réunion
-- [.mq](http://nic.mq) - TLD for Martinique (free with Freenom)
+- [.mq](http://www.collectivitedemartinique.mq) - TLD for Martinique
 - [.gp](http://nic.gp) - TLD for Guadeloupe
-- [.gf](http://nic.gf) - TLD for Guyane Française
+- [.gf](https://www.ctguyane.fr/) - TLD for Guyane Française
 - [.yt](http://nic.yt) - TLD for Mayotte
 - [.tf](http://nic.tf) - TLD for Terres Australes et Antarctiques
-- [.nc](http://nic.nc) - TLD for Nouvelle-Calédonie
-- [.pf](http://nic.pf) - TLD for Polynésie Française
+- [.nc](http://www.cctld.nc/) - TLD for Nouvelle-Calédonie
+- [.pf](http://www.opt.pf/) - TLD for Polynésie Française
 - [.wf](http://nic.wf) - TLD for Wallis and Futuna
 - [.pm](http://nic.pm) - TLD for Saint-Pierre and Miquelon
 - [.alsace](http://nic.alsace) - TLD for Région Alsace
@@ -120,6 +120,23 @@
 - [.aquarelle](http://nic.aquarelle) - TLD for Société Aquarelle
 - [.frogans](http://nic.frogans) - TLD for Project Frogans
 - [.ovh](http://nic.ovh) - TLD for OVH
+- [.sncf](https://www.sncf.com/sncv1/fr/nic) - TLD for SNCF
+
+#### TLD for francophone country/region
+
+- [.ml](https://nic.ml) - TLD for Mali (free with [Freenom](http://www.freenom.com/))
+- [.ga](http://www.my.ga/) - TLD for Gabon (free with [Freenom](http://www.freenom.com/))
+- [.cf](http://nic.cf) - TLD for Centrafique (free with [Freenom](http://www.freenom.com/))
+- [.gq](http://nic.gq) - TLD for Guinée Équatoriale (free with [Freenom](http://www.freenom.com/))
+- [.quebec](http://registre.quebec/) - TLD for Quebec
+- [.cg](http://nic.cg) - TLD for Congo
+- [.bj](http://nic.bj) - TLD for Bénin
+- [.bf](http://www.arcep.bf/noms-de-domaine/) - TLD for Burkina Faso
+- [.ci](http://www.nic.ci) - TLD for Côte D'Ivoire
+- [.ng](http://nira.org.ng) - TLD for Nigeria
+- [.cd](http://www.nic.cd/) - TLD for Republique Democratique du Congo
+- [.sn](https://www.nic.sn) - TLD for Sénégal
+- [.tg](https://nic.tg) - TLD for Togo
 
 ## CMS
 
