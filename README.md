@@ -5,7 +5,7 @@
 ---
 > This is based on [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 > You own/know something that could be added ? PR!
-
+>
 > :euro: - Not free
 >
 > :octocat: - Open Source
@@ -124,7 +124,7 @@
 
 ## Web
 
-- [OVH.com](https://ovh.com) - French hosting :fr::euro:
+- [OVH.com](https://ovh.com) - French hosting :fr::euro:[:octocat:](https://github.com/ovh)[:octocat:](https://github.com/ovhlabs)
 - [Online](https://online.net) - French hosting :fr::euro:
 - [OVH.net](https://ovh.net) - Speedtest powered by OVH :fr::euro:
 - [Lilo](https://search.lilo.org) - Search engine that collect water (like [Ecosia](https://ecosia.org) but with water) :fr::free:
@@ -192,7 +192,7 @@
 
 - [Free](https://free.fr) - French ISP :fr::euro:
 - [Orange](https://orange.fr) - Historical French ISP :fr::euro:
-- [OVH](https://ovh.com) - French ISP :fr::euro:
+- [OVH](https://ovh.com) - French ISP :fr::euro:[:octocat:](https://github.com/ovh)[:octocat:](https://github.com/ovhlabs)
 - [Altice / SFR](https://sfr.fr) - French ISP (no one like this one) :fr::euro:
 - [Bouygues Telecom](https://bouyguestelecom.fr) - French ISP (no one like this one too) :fr::euro:
 
