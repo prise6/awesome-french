@@ -20,6 +20,7 @@
 ## Contents
 
 - [School](#school)
+- [Other Awesome List](#other-awesome-list)
 - [Music](#music)
 - [Programming Languages](#programming-languages)
 - [Books](#books)
@@ -50,6 +51,13 @@
 ### Online school
 
 - [OpenClassrooms](https://openclassrooms.com/) - Free course on everything that touch code :fr: :euro:/:free:
+
+## Other Awesome List
+
+- [Awesome Freelance FR](https://github.com/etnbrd/awesome-freelance-fr) - Tools for freelance in France :fr::free:
+- [Awesome French](https://github.com/GloverDonovan/awesome-french) - Tools to study French :fr::free:
+- [Awesome French](https://github.com/alexislefebvre/awesome-french) - Tools translated in French :fr::free:
+- [Awesome Lyon](https://github.com/ubermuda/awesome-lyon) - List of things to eat/drink in [Lyon](https://www.lyon.fr) :fr::free:
 
 ## Music
 
