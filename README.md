@@ -85,7 +85,7 @@
 - [30 millions d'amis](http://30millionsdamis.fr) - A french organization for animals in France
 - [L214](https://www.l214.com/) - A french organization for animals in France
 - [PETA France](http://petafrance.com) - A french organization for animals in France
-- [Emmaus](http://emmaus-france.org) - A french organization that help poor people (they made [Emmabuntus](#os)
+- [Emmaus](http://emmaus-france.org) - A french organization that help poor people (they made [Emmabuntus](#os))
 - [VideoLan](http://www.videolan.org) - A french organization that made VLC
 
 ## Web Organization
