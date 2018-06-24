@@ -2,6 +2,11 @@
 	<img width="500" src="https://rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
 </div>
 
+<p align="center">
+	<sub>Just type <a href="https://awesome-fr.cf"><code>awesome-fr.cf</code></a> to go here. Check out my <a href="https://jusdepatate.cf">site</a> and follow me on <a href="https://github.com/jusdepatate">GitHub</a>.</sub>
+</p>
+<br>
+
 ---
 > This is based on [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 > You own/know something that could be added ? PR!
