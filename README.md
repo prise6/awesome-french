@@ -25,7 +25,7 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 >
 > :free: - Free
 >
-> :fire: - From/Talking about [Lyon](https://lyon.fr) <3
+> :fire: - From/Talking about [Lyon](https://www.lyon.fr) <3
 
 ## Contents
 
@@ -67,7 +67,7 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 - [Awesome Freelance FR](https://github.com/etnbrd/awesome-freelance-fr) - Tools for freelance in France.. :fr::free:
 - [Awesome French](https://github.com/GloverDonovan/awesome-french) - Tools to study French. :fr::free:
 - [Awesome French](https://github.com/alexislefebvre/awesome-french) - Tools translated in French. :fr::free:
-- [Awesome Lyon](https://github.com/ubermuda/awesome-lyon) - List of things to eat/drink in Lyon. :fr::fire:
+- [Awesome Lyon](https://github.com/ubermuda/awesome-lyon) - List of things to eat/drink in Lyon. :fire::free:
 - [Awesome Montréal](https://github.com/ubermuda/awesome-montreal) - List of things to eat/drink in [Montreal](http://ville.montreal.qc.ca/). :lollipop::free:
 
 ## Music
@@ -114,8 +114,9 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 
 ### Games
 
-- Games by studio listed above
+- Games by studios listed above
 - [Once Upon A War](https://github.com/Meuleuh-Corp/Once-Upon-A-War) - Unity game about war :free::fr:[:octocat:](https://github.com/Meuleuh-Corp/Once-Upon-A-War)
+- [Fantasy](https://fr.asmodee.com/fr/games/fantasy/) - Tabletop game. :fr::euro: (10€)
 
 ## Series
 
