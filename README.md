@@ -25,7 +25,7 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 >
 > :free: - Free
 >
-> :fire: - From/Talking about [Lyon](https://www.lyon.fr) <3
+> :fire: - From/Talking about "Rhône-Alpes" or "Isère" <3
 
 ## Contents
 
@@ -69,6 +69,7 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 - [Awesome French](https://github.com/alexislefebvre/awesome-french) - Tools translated in French. :fr::free:
 - [Awesome Lyon](https://github.com/ubermuda/awesome-lyon) - List of things to eat/drink in Lyon. :fire::free:
 - [Awesome Montréal](https://github.com/ubermuda/awesome-montreal) - List of things to eat/drink in [Montreal](http://ville.montreal.qc.ca/). :lollipop::free:
+- [FUN Made In France](https://github.com/arizona2014/FUN-Made-In-France) - List of neat projects made in France :fr::free:
 
 ## Music
 
@@ -204,11 +205,11 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 - [Fortnite stats](https://fortnite.y3n.co/) - Bot that give stats from fortnite. :fr::free:
 - [l4p1n-bot](https://bot.l4p1n.ch/) - Multifunctionnality bot made by a cool guy (l4p1n). :lollipop::free:
 - [EnderBot](https://audran.xyz/enderbot/) - cool RPG bot. :fr::free:
-- [EmoteBot](https://discordbots.org/bot/397007011549675521) - Bot based on RED :free::fr:[:octocat:](https://github.com/EmoteBot/EmoteBot)
+- [EmoteBot](https://discordbots.org/bot/397007011549675521) - Bot based on RED :free::fire:[:octocat:](https://github.com/EmoteBot/EmoteBot)
 
 ### Telegram bot
 
-- [Potato Juice](https://t.me/Potato_JuiceBot) - Tiny Telegram bot :free::fr:[:octocat:](https://github.com/EmoteBot/Potato-JuiceBot)
+- [Potato Juice](https://t.me/Potato_JuiceBot) - Tiny Telegram bot :free::fire:[:octocat:](https://github.com/EmoteBot/Potato-JuiceBot)
 
 ### Twitter bot
 
@@ -221,11 +222,34 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 
 ## ISP
 
+### Well know ISP (in France)
 - [Free](https://free.fr) - French ISP. :fr::euro:
 - [Orange](https://orange.fr) - Historical French ISP. :fr::euro:
 - [OVH](https://ovh.com) - French ISP. :fr::euro:[:octocat:](https://github.com/ovh)[:octocat:](https://github.com/ovhlabs)
 - [Altice / SFR](https://sfr.fr) - French ISP (no one like this one). :fr::euro:
 - [Bouygues Telecom](https://bouyguestelecom.fr) - French ISP (no one like this one too). :fr::euro:
+
+### Not so know ISP (in France)
+
+- [FDN - French Data Network](https://www.fdn.fr) - French ISP. :fr::euro: (40€/month ADSL)
+- [ILOTH - Internet Libre et Ouvert à Tous dans l'Hérault](https://iloth.net) - French ISP. :fr::euro: (40€/month ADSL)
+- [Rhizome](https://www.rhizome-fai.net) - French ISP. :fr::euro:
+- [Quantic Telecom](https://www.quantic-telecom.net) - French ISP. :fr::euro: (95€/month FTTO)
+- [Franciliens](https://www.franciliens.net) - French ISP. :fr::euro: (43€/month (A/V)DSL)
+- [Grifon](https://grifon.fr) - French ISP. :fr::euro: (42€/month ADSL)
+- [FAIMaison](https://www.faimaison.net) - French ISP. :fr::euro: (40€/month ADSL)
+- [TDN - Tourraine Data Network](https://www.tdn-fai.net) - French ISP. :fr::euro: (40€/month ADSL)
+- [OxidTelecom](https://www.oxtel.fr) - French ISP. :fr::euro:
+- [Rézine](https://www.rezine.org) - French ISP. :fire::euro: (37€/month (A/V)DSL)
+- [Illyse](https://www.illyse.net) - French ISP. :fire::euro: (37€/month (A/V)DSL)
+- [Ilico](https://www.ilico.org) - French ISP. :fr::euro: (36€/month (A/V)DSL)
+- [Aquilenet](https://www.aquilenet.fr) - French ISP. :fr::euro:
+
+
+### Association of ISP
+
+- [FFDN - Fédération French Data Network](https://www.ffdn.org) - Federation of ISP. :fr:[:octocat:](https://code.ffdn.org/FFDN/)
+
 
 ## OS
 
@@ -260,3 +284,4 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 - [Le Code Civil Français, sous Git](https://github.com/steeve/france.code-civil) - Everything is in the name. :fr::free:[:octocat:](https://github.com/Dawn-of-Light/DOLSharp)
 - [Incubateur de Services Numériques de la Direction Interministérielle du Numérique et du Système d'Information et de Communication de l'État](http://beta.gouv.fr) - Everything is in the name. :fr::free:[:octocat:](https://github.com/betagouv)
 - [Parcoursup](http://www.parcoursup.fr/) - Code source de Parcoursup disponible sur Framagit. :fr::free:[:octocat:](https://framagit.org/parcoursup)
+- [La Brique Internet](http://labriqueinter.net) - self host and vpn. :fr: :free:/:euro: [:octocat:](https://github.com/labriqueinternet)
