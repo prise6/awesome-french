@@ -24,7 +24,8 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 > :lollipop: - From a francophone country/region
 >
 > :free: - Free
-
+>
+> :fire: - From/Talking about [Lyon](https://lyon.fr) <3
 
 ## Contents
 
@@ -66,7 +67,7 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 - [Awesome Freelance FR](https://github.com/etnbrd/awesome-freelance-fr) - Tools for freelance in France.. :fr::free:
 - [Awesome French](https://github.com/GloverDonovan/awesome-french) - Tools to study French. :fr::free:
 - [Awesome French](https://github.com/alexislefebvre/awesome-french) - Tools translated in French. :fr::free:
-- [Awesome Lyon](https://github.com/ubermuda/awesome-lyon) - List of things to eat/drink in [Lyon](https://www.lyon.fr). :fr::free:
+- [Awesome Lyon](https://github.com/ubermuda/awesome-lyon) - List of things to eat/drink in Lyon. :fr::fire:
 - [Awesome Montréal](https://github.com/ubermuda/awesome-montreal) - List of things to eat/drink in [Montreal](http://ville.montreal.qc.ca/). :lollipop::free:
 
 ## Music
@@ -134,6 +135,14 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 - [PETA France](http://petafrance.com) - A french organization for animals in France. :fr:
 - [Emmaus](http://emmaus-france.org) - A french organization that help poor people (they made [Emmabuntus](#os)). :fr:
 - [VideoLan](http://www.videolan.org) - A french organization that made VLC. :fr:
+
+### Company/Societe
+
+- [BigBen](http://www.bigben.eu) - Accessories for everything. :fr::euro:
+- [Bidul & Co](https://www.bidulandco.com) - Accessories for Apple/Surface products. :fire::euro:
+- [Way of Gamers](https://wayofgamers.fr) - crowfunding for geeks. :fire::euro:
+- [KNG eSport](https://www.startupplace.io/startup/kng-esport/) - eSport for everyone. :fire:
+- [La Source](https://la-source.co) - eSport for everyone. :fire:
 
 ## Web Organization
 > Not legal organization
