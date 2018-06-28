@@ -25,7 +25,7 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 >
 > :free: - Free
 >
-> :fire: - From/Talking about "Rhône-Alpes" or "Isère" <3
+> :fire: - From/Talking about (near) Lyon <3
 
 ## Contents
 
@@ -277,11 +277,11 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 ## License
 
 - [WTFPL - do What The Fuck you want to Public License](http://www.wtfpl.net) - Everything is in the name. :fr::free:
-- [The I don't care License](https://github.com/jusdepatate/i-dont-care_license) - A license that say "I dont care about my code". :fr::free:
+- [The I don't care License](https://github.com/jusdepatate/i-dont-care_license) - A license that say "I dont care about my code". :fire::free:
 
 ## Miscellaneous
 
-- [Le Code Civil Français, sous Git](https://github.com/steeve/france.code-civil) - Everything is in the name. :fr::free:[:octocat:](https://github.com/Dawn-of-Light/DOLSharp)
-- [Incubateur de Services Numériques de la Direction Interministérielle du Numérique et du Système d'Information et de Communication de l'État](http://beta.gouv.fr) - Everything is in the name. :fr::free:[:octocat:](https://github.com/betagouv)
+- [Le Code Civil Français, sous Git](https://github.com/steeve/france.code-civil) - Everything is in the name. :fr::free:[:octocat:](https://github.com/steeve/france.code-civil)
 - [Parcoursup](http://www.parcoursup.fr/) - Code source de Parcoursup disponible sur Framagit. :fr::free:[:octocat:](https://framagit.org/parcoursup)
 - [La Brique Internet](http://labriqueinter.net) - self host and vpn. :fr: :free:/:euro: [:octocat:](https://github.com/labriqueinternet)
+- [ROTI-json](http://roti-json.jusdepatate.cf) - Human&Robot readable api for **R**ules **O**f **T**he **I**nternet. :fire::free:[:octocat:](https://github.com/jusdepatate/rules-of-the-internet-json)
