@@ -285,3 +285,10 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 - [Parcoursup](http://www.parcoursup.fr/) - Code source de Parcoursup disponible sur Framagit. :fr::free:[:octocat:](https://framagit.org/parcoursup)
 - [La Brique Internet](http://labriqueinter.net) - self host and vpn. :fr: :free:/:euro: [:octocat:](https://github.com/labriqueinternet)
 - [ROTI-json](http://roti-json.jusdepatate.cf) - Human&Robot readable api for **R**ules **O**f **T**he **I**nternet. :fire::free:[:octocat:](https://github.com/jusdepatate/rules-of-the-internet-json)
+- [The Freaks](http://the-freaks.fr) - Ecology with french Stars :fr:
+
+
+
+
+
+
