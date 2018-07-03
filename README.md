@@ -130,7 +130,7 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 > Legal organization ("Association loi 1901" or "Société", gaming company goes [here](#video-game-studio))
 
 - [La Quadrature du Net](https://ldqn.fr) - A french organization for net neutrality in France. :fr:
-- [Framasoft](https://framasoft.org) - A french organization for open source software in France. :fr:
+- [Framasoft](https://framasoft.org) - A french organization for open source software in France. :fire:
 - [La SPA](https://la-spa.fr) - A french organization for animals in France. :fr:
 - [30 millions d'amis](http://30millionsdamis.fr) - A french organization for animals in France. :fr:
 - [L214](https://www.l214.com/) - A french organization for animals in France. :fr:
