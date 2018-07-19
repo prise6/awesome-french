@@ -84,6 +84,7 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 - [Hippocampe Fou](https://www.youtube.com/channel/UC3OgjFc0DlRgD7h8eY8-afA) - Member of the band "La Secte Phonétik". :fr:
 - [L.E.J.](https://www.youtube.com/channel/UCRctnXfqPKaB4Ywp0y94ZDg) - 3 womens who do awesome things. :fr:
 - [Thérapie Taxi](https://www.youtube.com/channel/UCw6eCoyUf6sOa5L6fouZO4w) - Rock. :fr:
+- [Kikesa](http://youtube.com/channel/UCcX5UhgQ3fCSXpemJzEuZIw) - Rap. :fire:
 
 ## Programming Languages
 
