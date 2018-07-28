@@ -85,7 +85,7 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 - [L.E.J.](https://www.youtube.com/channel/UCRctnXfqPKaB4Ywp0y94ZDg) - 3 womens who do awesome things. :fr:
 - [Thérapie Taxi](https://www.youtube.com/channel/UCw6eCoyUf6sOa5L6fouZO4w) - Rock. :fr:
 - [Kikesa](http://youtube.com/channel/UCcX5UhgQ3fCSXpemJzEuZIw) - Rap. :fire:
-
+- [Rilès](https://www.youtube.com/user/0Riles) - Rap. :fire:
 ## Programming Languages
 
 - [Linotte](http://langagelinotte.free.fr/) - « codez dans un langage simple et en français » (from official website). :fr::free:
