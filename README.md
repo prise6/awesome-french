@@ -219,10 +219,14 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 
 - [Français mofo](https://twitter.com/francais_mofo) - Suggest appropriate translations to English words used in French :free::fr:[:octocat:](https://github.com/maeligg/francais-mofo)
 
+### Mastodon bot
+- [@l4bot@botsin.space](http://botsin.space/@l4bot) - bot based on mastodon-ebooks. :lollipop:[:octocat:](https://github.com/Srol/mastodon-ebooks)
+
 ## CMS
 
 - [YesWiki](https://yeswiki.net/) - Wiki CMS :free::fr:[:octocat:](https://github.com/YesWiki/yeswiki)
 - [MineWebCMS](https://mineweb.org) - Minecraft CMS :free::fr:[:octocat:](https://github.com/MineWeb/MineWebCMS)
+- [NeoFratCMS](https://neofr.ag) - Gaming-based CMS :free::fr:[:octocat:](https://neofr.ag/fr)
 
 ## ISP
 
@@ -253,7 +257,7 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 ### Association of ISP
 
 - [FFDN - Fédération French Data Network](https://www.ffdn.org) - Federation of ISP. :fr:[:octocat:](https://code.ffdn.org/FFDN/)
-
+- [CHATONS.org](https://chatons.org) - Collectif des Hébergeurs Alternatifs,Transparents, Ouverts, Neutres et Solidaires. :fr:
 
 ## OS
 
@@ -276,7 +280,11 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 - [BonPatron](https://bonpatron.com/) - Online spelling and Grammar checker for french. :fr::free:
 - [Dawn Of Light](http://www.dolserver.net/) - Server emulator for Dark Age Of Camelot (not completly french but have a lot of french in staff). :fr::free:[:octocat:](https://github.com/Dawn-of-Light/DOLSharp)
 - [OpenFisca France](https://github.com/openfisca/openfisca-france) - French tax and benefit system. :fr::free:[:octocat:](https://github.com/openfisca/openfisca-france)
-
+- [Doochronos](http://chronos.doocode.xyz) - Timer. :fr::free:[:octocat:](https://github.com/Doocode/Doochronos)
+- [Doosearch](http://search.doocode.xyz) - Homepage. :fr::free:[:octocat:](https://github.com/Doocode/Doosearch)
+- [MushRaider](http://mushraider.com) - Raid Planner. :fr::free:[:octocat:](https://github.com/st3ph/mushraider)
+- [Mumble](https://github.com/mumble-voip/mumble) - Open Source VOIP softwaree. :fr::free:[:octocat:](https://github.com/mumble-voip/mumble)
+- [bitoduc.fr](http://bitoduc.fr) - French-Technologic word. :fr::free:[:octocat:](https://github.com/soulaklabs/bitoduc.fr/)
 
 ## License
 
