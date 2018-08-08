@@ -21,11 +21,18 @@ all : <a href="https://danwin1210.me/visits.php?id=6429d0b5b22ec1fe6749f9c9bc3dd
 >
 > :fr: - From France
 >
-> :lollipop: - From a francophone country/region
+> :lollipop: - From a French-Speaking country/region
 >
 > :free: - Free
 >
 > :fire: - From/Talking about (near) Lyon <3
+
+
+> What is this ?
+This is an list based on the project [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) and its theme is things from France and other French-Speaking country/people.
+
+> Why ?
+Because.
 
 ## Contents
 
